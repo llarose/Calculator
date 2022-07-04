@@ -11,3 +11,5 @@ CTestTestfile.cmake
 _deps
 /googletest
 /build
+ZERO_CHECK.vcxproj.filters
+
