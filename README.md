@@ -55,6 +55,7 @@ Running the tests in Terminal:
 
 3. Open a command prompt and execute the following:
    pip install pytest-cpp
+   pip install pandas
    
 4. Clone googletest into the roort directory
    git clone https://github.com/google/googletest.git
