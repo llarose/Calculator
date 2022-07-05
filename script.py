@@ -28,7 +28,7 @@ else:
 
 # Running the googletests : test_CalculatorTests.exe with pytest
 print(f"Running tests in googletest through pytest")
-test_path = os.path.join(current_path, "build\\test\\Debug")
+test_path = os.path.join(current_path, "build/test/")
 os.chdir(test_path)
 
 with open('output.txt', 'w') as f:
