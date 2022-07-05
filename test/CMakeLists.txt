@@ -18,3 +18,9 @@ add_test(
     NAME ${This}
     COMMAND ${This}
 )
+
+install(
+    PROGRAMS ${CMAKE_CURRENT_BINARY_DIR}/test_CalculatorTests
+    DESTINATION /opt/Calculator/bin
+    COMPONENT Calculator
+)
