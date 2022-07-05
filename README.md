@@ -28,7 +28,7 @@ Install below plugins
 
 ### How to configure, build and run 
 Configure : 
-- After cloning the Calculator project and cloning googletest 
+- After cloning the Calculator project and cloning googletest,  
 VS code gives a choice to pick a kit for the compiler 
 - Choose Visual Studio Community 
 - The above step will configure the generator, detect the tools and builds the build system 
@@ -54,7 +54,7 @@ Running the tests in Terminal:
 2. Install pip
 
 3. Open a command prompt and execute the following:
-   pip install pytest-cpp
+   pip install pytest-cpp,
    pip install pandas
    
 4. Clone googletest into the roort directory

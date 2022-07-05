@@ -1,0 +1,13 @@
+============================= test session starts =============================
+"platform win32 -- Python 3.6.8, pytest-7.0.1, pluggy-1.0.0 -- c:\users\pc\appdata\local\programs\python\python36\python.exe"
+cachedir: .pytest_cache
+rootdir: F:\Calculator\build\test\Debug
+"plugins: cpp-2.1.2, csv-3.0.0"
+collecting ... collected 6 items
+test_CalculatorTests.exe::CalculatorTests::Addition PASSED               [ 16%]
+test_CalculatorTests.exe::CalculatorTests::Subtraction PASSED            [ 33%]
+test_CalculatorTests.exe::CalculatorTests::Multiplication PASSED         [ 50%]
+test_CalculatorTests.exe::CalculatorTests::Division PASSED               [ 66%]
+test_CalculatorTests.exe::CalculatorTests::DivisionbyZero PASSED         [ 83%]
+test_CalculatorTests.exe::CalculatorTests::Subtraction2 PASSED           [100%]
+============================== 6 passed in 0.80s ==============================
